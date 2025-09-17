@@ -6,7 +6,7 @@ const AboutPage = () => {
             <h1>About Page</h1>
             <Greeting name="Braden" />
         </section>
-    )
-}
+    );
+};
 
 export default AboutPage;
