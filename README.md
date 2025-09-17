@@ -8,6 +8,10 @@ This workshop introduces **Next.js**, a React-based framework that extends React
 
 The slides that were used during the workshop can be found [here](Tech%20workshop%201.pdf).
 
+## URL
+
+The live URL of the web app that this repository creates can be found [here](https://ktp-usc.github.io/tech-workshop-1/).
+
 ---
 
 ## Prerequisites
