@@ -4,6 +4,10 @@
 
 This workshop introduces **Next.js**, a React-based framework that extends React with production-ready features. Attendees learn how to set up a Next.js project, style it with Tailwind CSS, build reusable components, navigate between routes, and deploy to GitHub Pages.
 
+## Slides
+
+The slides that were used during the workshop can be found [here](Tech%20workshop%201.pdf).
+
 ---
 
 ## Prerequisites
