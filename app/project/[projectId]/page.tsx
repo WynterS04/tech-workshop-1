@@ -11,7 +11,7 @@ This function ONLY allows /project/project1, /project/project2, and /project/pro
 the dynamic behavior of a normal slug path.
 */
 export async function generateStaticParams(): Promise<Params[]> {
-    return ["project1", "project2", "project3"].map(p => ({ projectId: p }));
+    return ["project1", "project2", "project3"].map(p => ({projectId: p}));
 }
 
 const ProjectNamePage = ({ params }: { params: Params }) => {
